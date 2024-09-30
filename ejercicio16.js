@@ -1,0 +1,1 @@
+//Ejercicio 2: Calcular el área de un rectángulo
